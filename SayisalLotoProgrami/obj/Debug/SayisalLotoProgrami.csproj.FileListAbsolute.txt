@@ -1,0 +1,6 @@
+C:\Users\HasKhan\Desktop\SayisalLotoProgrami\SayisalLotoProgrami\SayisalLotoProgrami\bin\Debug\SayisalLotoProgrami.exe.config
+C:\Users\HasKhan\Desktop\SayisalLotoProgrami\SayisalLotoProgrami\SayisalLotoProgrami\bin\Debug\SayisalLotoProgrami.exe
+C:\Users\HasKhan\Desktop\SayisalLotoProgrami\SayisalLotoProgrami\SayisalLotoProgrami\bin\Debug\SayisalLotoProgrami.pdb
+C:\Users\HasKhan\Desktop\SayisalLotoProgrami\SayisalLotoProgrami\SayisalLotoProgrami\obj\Debug\SayisalLotoProgrami.csprojResolveAssemblyReference.cache
+C:\Users\HasKhan\Desktop\SayisalLotoProgrami\SayisalLotoProgrami\SayisalLotoProgrami\obj\Debug\SayisalLotoProgrami.exe
+C:\Users\HasKhan\Desktop\SayisalLotoProgrami\SayisalLotoProgrami\SayisalLotoProgrami\obj\Debug\SayisalLotoProgrami.pdb
